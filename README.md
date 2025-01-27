@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://api.daily.dev/devcards/v2/t1zlfO2lGw8pWJuYSbkyf.png?type=default&r=s5c)
+<img src="https://api.daily.dev/devcards/v2/t1zlfO2lGw8pWJuYSbkyf.png?type=default&r=s5c" width="356" alt="László Gábor's Dev Card"/>
