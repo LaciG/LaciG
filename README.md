@@ -16,5 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<img src="https://api.daily.dev/devcards/v2/t1zlfO2lGw8pWJuYSbkyf.png?type=default&r=s5c" width="356" alt="László Gábor's Dev Card"/>
+<center>
+  <img src="https://api.daily.dev/devcards/v2/t1zlfO2lGw8pWJuYSbkyf.png?type=wide&r=abu" width="652" alt="László Gábor's Dev Card"/>
+</center>
